@@ -20,6 +20,8 @@ Monitor wind energy production
 	* Wind Speed (m/s) 
 	* TheoreticalPowerCurve (KWh)
 	* Wind Direction (°)
+* Data Distribution : 
+![Data Distribution](/images/dataDistrib.jpg)
 
 ## Process
 * Importing data and libraries.
