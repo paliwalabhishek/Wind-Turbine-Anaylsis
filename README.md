@@ -30,9 +30,9 @@ Monitor wind energy production
 * Data aggregation based on days for Monthly Anaylsis
 * Calcualte the control limits - CL(Centre Line), UCL(Upper Centre Line), LCL(Lower Centre Line):
 	* Annual Anaylsis: There will be one chart for whole year as shown below
-	![Annual Chart](https://github.com/paliwalabhishek/Wind-Turbine-Anaylsis/images/annualChart.jpg)
+	![Annual Chart](/images/annualChart.jpg)
 	* Monthly Anaylsis: There will be 12 charts for each month as shown below
-	![Monthly Out of Control Chart](https://github.com/paliwalabhishek/Wind-Turbine-Anaylsis/images/monthlyOutOfControl.JPG)
+	![Monthly Out of Control Chart](/images/monthlyOutOfControl.JPG)
 * Validation - to find Out of control points
 * Correcting or solving the Out of control situations 
 
@@ -52,7 +52,7 @@ Monitor wind energy production
 	*	The oil in the gearbox might be heating up or the engineers need to check the gearbox vibrations that may cause unnecessary noise (disturbance), this could signal that a failure is about to happen. 
 	*	The change in data can be due to the actual change in the characteristics that produces wind or it might just be a reading errors like Rotor speed reading error (RSRE), Temperature measurement module failure error (TMFE) etc.
 *	After eliminating the out of control points for all the 3 months, system  become in control as shown below
-		![Monthly In control Chart](https://github.com/paliwalabhishek/Wind-Turbine-Anaylsis/images/monthlyInOfControl.JPG)
+		![Monthly In control Chart](/images/monthlyInOfControl.JPG)
 *	That is the system finally produces the expected amount of power it is supposed to without any surges or any dips in the production.
 
 
